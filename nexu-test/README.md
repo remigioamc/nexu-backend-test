@@ -5,7 +5,7 @@ The data storage is set up to a MongoDB database
 
 ## Table of Contents
 
-- [Installation requirements](#installation)
+- [Installation requirements](#installation-requirements)
 - [Routes](#routes)
 - [Examples](#examples)
 - [Database](#database)
@@ -34,7 +34,7 @@ npm install express mongoose body-parser cors
 npm run dev
 ```
 
-Once the server is running, you can test the API endpoints using tools such as Postman or Insomia, please note a collection for insomina is provided in this repository (addInsomniaURL)
+Once the server is running, you can test the API endpoints using tools such as Postman or Insomia, please note a collection for insomina is provided in this repository [link]([https://duckduckgo.com](https://github.com/lizeth9797/nexu-backend-test/blob/karina/endpointsTest.json))
 
 ## Routes
 Find the routes in routes/models.js
@@ -234,7 +234,7 @@ On MongoDB Compass, click on 'New connection'
 ```
 mongodb+srv://karina:karina123@cluster0.87v2vjl.mongodb.net/ 
 ```
-![alt text](addImageURL)
+![alt text](https://github.com/lizeth9797/nexu-backend-test/blob/karina/nexu-test/mongoDBCompass.png)
 
 
 ## Questions:
