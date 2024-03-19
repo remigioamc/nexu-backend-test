@@ -34,7 +34,7 @@ npm install express mongoose body-parser cors
 npm run dev
 ```
 
-Once the server is running, you can test the API endpoints using tools such as Postman or Insomia, please note a collection for insomina is provided in this repository [link]([https://duckduckgo.com](https://github.com/lizeth9797/nexu-backend-test/blob/karina/endpointsTest.json))
+Once the server is running, you can test the API endpoints using tools such as Postman or Insomia, please note a collection for insomina is provided in this repository [link](https://github.com/lizeth9797/nexu-backend-test/blob/karina/endpointsTest.json)
 
 ## Routes
 Find the routes in routes/models.js
@@ -199,7 +199,7 @@ Body
 	"updatedAt": "2024-03-19T02:55:49.044Z"
 }
 ```
-dels
+
 #### GET    /models?greater=&lower=
 ```
 http://localhost:4001/v1/models?greater=350000&lower=360000
