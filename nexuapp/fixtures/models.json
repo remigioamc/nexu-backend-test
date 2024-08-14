@@ -1,0 +1,47 @@
+[
+    {
+        "model": "nexuapp.model",
+        "id": 1,
+        "fields": {
+            "name": "ILX",
+            "average_price": 303176,
+            "brand": 4
+        }
+    },
+    {
+        "model": "nexuapp.model",
+        "id": 2,
+        "fields": {
+            "name": "MDX",
+            "average_price": 448193,
+            "brand": 1
+        }
+    },
+    {
+        "model": "nexuapp.model",
+        "id": 3,
+        "fields": {
+            "name": "NSX",
+            "average_price": 3818225,
+            "brand": 3
+        }
+    },
+    {
+        "model": "nexuapp.model",
+        "id": 4,
+        "fields": {
+            "name": "RDX",
+            "average_price": 395753,
+            "brand": 2
+        }
+    },
+    {
+        "model": "nexuapp.model",
+        "id": 5,
+        "fields": {
+            "name": "RL",
+            "average_price": 239050,
+            "brand": 5
+        }
+    }
+]

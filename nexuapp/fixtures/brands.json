@@ -1,0 +1,37 @@
+[
+    {
+        "model": "nexuapp.brand",
+        "id": 1,
+        "fields": {
+            "name": "Acura"
+        }
+    },
+    {
+        "model": "nexuapp.brand",
+        "id": 2,
+        "fields": {
+            "name": "Audi"
+        }
+    },
+    {
+        "model": "nexuapp.brand",
+        "id": 3,
+        "fields": {
+            "name": "Bentley"
+        }
+    },
+    {
+        "model": "nexuapp.brand",
+        "id": 4,
+        "fields": {
+            "name": "BMW"
+        }
+    },
+    {
+        "model": "nexuapp.brand",
+        "id": 5,
+        "fields": {
+            "name": "Buick"
+        }
+    }
+]
