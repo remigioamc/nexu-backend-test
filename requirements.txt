@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pytest
+psycopg2-binary
+python-dotenv
+commitizen                     
+pip                
+postgres
+flake8
